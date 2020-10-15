@@ -21,10 +21,10 @@
 [6]: http://dev.to/ombharatiya -->
 
 
-# ❤ to Build - Civil Engineer & Full Stack Web Development!!
+# Civil Engineer & Full Stack Web Development!!
 
 
-Hi, I'm German — a **civil engineer** and **Full Stack Web Development**. My working principle is learning by doing. ✌💖
+Hi, I'm German — a **civil engineer** and **Full Stack Web Development**. My working principle is learning by doing. 💯
 
 <!-- section - intro -->
 
@@ -70,9 +70,9 @@ JavaScript . NodeJs. Express
 
 <!-- section - interests -->
 
-## My Absolute Favorites .. 💖
+## My Absolute Favorites .. ⭐
 
-🦄 I love _CODING_
+🦄 I love _CODING_ 
 
 <!-- 👨‍💻 I _BUILD_ resilient apps & services -->
 
@@ -91,7 +91,7 @@ JavaScript . NodeJs. Express
 
 ## Thank you! 🙏
 
-Thanks for reading about me. You can connect with me on ..
+Thanks for reading about me. You can connect with me on .. 💻
 
 <!-- section - social media icons -->
 
