@@ -104,3 +104,7 @@ Thanks for reading about me. You can connect with me on ..
 [![dev to ombharatiya][6.1]][6] -->
 
 <!-- section - social media icons -->
+<p align='center'>
+<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=GerMoren.visitor-badge">
+ <p/>
+
