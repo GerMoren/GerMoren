@@ -1,13 +1,12 @@
-<!-- Don't remove this --- https://github.com/ombharatiya -->
 
 <!-- links to social media icons -->
 <!-- no need to change these -->
 
 <!-- icons  -->
 
-[1.1]: https://github.com/GerMoren/GerMoren/blob/master/assets/icons/icons8-linkedin-48.png (linkedin icon with padding)
-[2.1]: https://github.com/GerMoren/GerMoren/blob/master/assets/icons/icons8-github-48.png (github icon with padding)
-[3.1]: https://github.com/GerMoren/GerMoren/blob/master/assets/icons/icons8-twitter-48.png (twitter icon with padding)
+[1.1]: https://github.com/GerMoren/GerMoren/blob/main/assets/icons/icons8-linkedin-48.png (linkedin icon with padding)
+[2.1]: https://github.com/GerMoren/GerMoren/blob/main/assets/icons/icons8-github-48.png (github icon with padding)
+[3.1]: https://github.com/GerMoren/GerMoren/blob/main/assets/icons/icons8-twitter-48.png (twitter icon with padding)
 <!-- [4.1]: https://github.com/GerMoren/GerMoren/blob/master/assets/icons/icons8-medium-new-48.png (medium icon with padding)
 [5.1]: https://github.com/GerMoren/GerMoren/blob/master/assets/icons/icons8-stack-overflow-48.png (stackoverflow icon with padding)
 [6.1]: https://github.com/GerMoren/GerMoren/blob/master/assets/icons/icons8-dev-48.png (dev icon with padding) -->
