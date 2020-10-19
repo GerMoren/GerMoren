@@ -74,7 +74,7 @@ JavaScript . NodeJs. Express
 
 🦄 I love _CODING_ 
 
-<!-- 👨‍💻 I _BUILD_ resilient apps & services -->
+👨‍💻 I _BUILD_ resilient apps & services
 
 <!--📰 Reading & writing _TECH BLOGS_ -->
 
