@@ -86,7 +86,9 @@ JavaScript . NodeJs. Express
 
 ## Check my Projects ✨
 
+- [Portfolio](https://bit.ly/31o5o6L)
 - [Vivero E-commerce](https://vivero.vercel.app/home)
+
 
 
 ## Thank you! 🙏
