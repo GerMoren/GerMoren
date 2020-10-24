@@ -24,7 +24,7 @@
 # Civil Engineer & Full Stack Web Development!!
 
 
-Hi, I'm German — a **civil engineer** and **Full Stack Web Development**. My working principle is learning by doing. 💯
+Hi, I'm German — a **Civil Engineer** and a **Full Stack Web Developer**. My working principle is learning by doing. 💯
 
 <!-- section - intro -->
 
@@ -72,7 +72,7 @@ JavaScript . NodeJs. Express
 
 ## My Absolute Favorites .. ⭐
 
-🦄 I love _CODING_ 
+🦄 I love _CODING_
 
 👨‍💻 I _BUILD_ resilient apps & services
 
