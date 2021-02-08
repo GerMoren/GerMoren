@@ -21,7 +21,7 @@
 [6]: http://dev.to/ombharatiya -->
 
 
-# Civil Engineer & Full Stack Web Development!!
+# Civil Engineer & Full Stack Web Developer!!
 
 
 Hi, I'm German — a **Civil Engineer** and a **Full Stack Web Developer**. My working principle is learning by doing. 💯
